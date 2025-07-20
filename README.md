@@ -7,8 +7,6 @@ This project demonstrates a simple synchronous FIFO (First-In-First-Out) memory 
 ### RTL View
 ![RTL Block Diagram](RTL_block.png)
 
-### Simulation Waveform
-![Simulation Waveform](waveform.png)
 
 ---
 
@@ -70,6 +68,8 @@ Attempts to over-read FIFO and checks that no invalid data is read.
 Testbench also includes a waveform generator (`dump.vcd`) for analysis.
 
 ---
+### Simulation Waveform
+![Simulation Waveform](waveform.png)
 
 ## 📚 Learning Outcomes
 
