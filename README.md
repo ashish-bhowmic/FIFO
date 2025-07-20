@@ -71,6 +71,8 @@ Testbench also includes a waveform generator (`dump.vcd`) for analysis.
 ### Simulation Waveform
 ![Simulation Waveform](waveform.png)
 
+---
+
 ## 📚 Learning Outcomes
 
 - Understanding of how FIFO buffers are implemented and tested.
